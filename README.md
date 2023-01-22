@@ -1,6 +1,6 @@
 ## Análisis y modelado predictivo sobre IPC Argentina
 
-CONTENIDOS DE ESTE REPORTE
+### CONTENIDOS DE ESTE REPORTE
 
 Lo que encontraremos en este resumen ejecutivo:
 
