@@ -4,12 +4,12 @@
 
 Lo que encontraremos en este resumen ejecutivo:
 
-● Descripción del caso.
-● Definición del objetivo del proyecto.
-● Etapas del proceso para concluir en la elaboración del modelo.
-● Comparación de los resultados obtenidos en modelo de clasificación.
-● Comparación de resultados obtenidos de los modelos de optimización.
-● Conclusiones finales.
+- Descripción del caso.
+- Definición del objetivo del proyecto.
+- Etapas del proceso para concluir en la elaboración del modelo.
+- Comparación de los resultados obtenidos en modelo de clasificación.
+- Comparación de resultados obtenidos de los modelos de optimización.
+- Conclusiones finales.
 
 ### DESCRIPCIÓN DEL PROBLEMA
 
